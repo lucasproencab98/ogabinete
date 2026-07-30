@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gabinete de Textos</title>
+<link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+
+<nav class="nav-topo">
+  <a href="index.html" class="nav-logo">Gabinete de Textos</a>
+  <div class="nav-links">
+    <a href="acervo.html">Acervo</a>
+    <a href="sobre.html">Sobre</a>
+  </div>
+</nav>
+
+<div class="container">
+
+  <div class="masthead">
+    <div class="eyebrow">folhas dispersas · edição digital</div>
+    <h1 class="titulo-principal">Gabinete de Textos</h1>
+    <div class="subtitulo">contos, versos, cartas e ideias</div>
+  </div>
+
+  <div class="ornamento">
+    <div class="linha"></div><div class="losango"></div><div class="linha"></div>
+  </div>
+
+  <div class="editorial">
+    <p class="capitular">Ao leitor que aqui chega, seja bem-vindo a este pequeno gabinete de escrita — um lugar reservado para os textos que nascem sem pressa e sem destinatário certo. Aqui reúno contos, poemas e cartas escritas ao longo do tempo, como quem guarda páginas soltas numa gaveta de escrivaninha.</p>
+    <p>Nem tudo o que se escreve precisa de pressa para ser lido. Convido você a folhear com calma.</p>
+  </div>
+
+  <div class="secao-titulo">Últimas páginas</div>
+
+  <div id="lista-recentes">
+    <!-- preenchido via JS -->
+  </div>
+
+  <div class="rodape"><a href="acervo.html">ver todo o acervo →</a></div>
+
+</div>
+
+<script src="js/dados.js"></script>
+<script>
+  carregarTextos().then(textos => {
+    const recentes = textos
+      .sort((a, b) => new Date(b.data) - new Date(a.data))
+      .slice(0, 5);
+    const container = document.getElementById('lista-recentes');
+    container.innerHTML = recentes.map(renderizarLinhaEdicao).join('');
+  });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Acervo — Gabinete de Textos</title>
+<link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+
+<nav class="nav-topo">
+  <a href="index.html" class="nav-logo">Gabinete de Textos</a>
+  <div class="nav-links">
+    <a href="acervo.html">Acervo</a>
+    <a href="sobre.html">Sobre</a>
+  </div>
+</nav>
+
+<div class="container">
+
+  <div class="masthead">
+    <div class="eyebrow">todos os textos</div>
+    <h1 class="titulo-principal" style="font-size: 3rem;">Acervo</h1>
+  </div>
+
+  <div class="filtros" id="filtros"></div>
+
+  <div id="lista-acervo">
+    <!-- preenchido via JS -->
+  </div>
+
+  <div class="rodape">— fim da folha —</div>
+
+</div>
+
+<script src="js/dados.js"></script>
+<script>
+  let todosOsTextos = [];
+  let filtroAtivo = 'Todos';
+
+  function renderizarLista(){
+    const filtrados = filtroAtivo === 'Todos'
+      ? todosOsTextos
+      : todosOsTextos.filter(t => t.tipo === filtroAtivo);
+
+    const ordenados = filtrados.sort((a, b) => new Date(b.data) - new Date(a.data));
+    document.getElementById('lista-acervo').innerHTML = ordenados.map(renderizarLinhaEdicao).join('');
+  }
+
+  function renderizarFiltros(){
+    const tipos = ['Todos', ...new Set(todosOsTextos.map(t => t.tipo))];
+    document.getElementById('filtros').innerHTML = tipos.map(tipo =>
+      `<button class="filtro-btn ${tipo === filtroAtivo ? 'ativo' : ''}" data-tipo="${tipo}">${tipo}</button>`
+    ).join('');
+
+    document.querySelectorAll('.filtro-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        filtroAtivo = btn.dataset.tipo;
+        renderizarFiltros();
+        renderizarLista();
+      });
+    });
+  }
+
+  carregarTextos().then(textos => {
+    todosOsTextos = textos;
+    renderizarFiltros();
+    renderizarLista();
+  });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap');
+
+:root{
+  --papel: #EDE3CC;
+  --papel-escuro: #E3D6B8;
+  --tinta: #2B211A;
+  --bordo: #6B1E23;
+  --dourado: #A9812E;
+  --verde: #2F4C3E;
+}
+
+*{ box-sizing: border-box; }
+
+html, body{
+  margin:0;
+  background: var(--papel);
+  background-image:
+    radial-gradient(circle at 20% 30%, rgba(169,129,46,0.05), transparent 40%),
+    radial-gradient(circle at 80% 70%, rgba(107,30,35,0.04), transparent 40%);
+  color: var(--tinta);
+  font-family: 'EB Garamond', serif;
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+a{ color: var(--bordo); text-decoration: none; }
+a:hover{ text-decoration: underline; }
+
+.container{ max-width: 760px; margin: 0 auto; padding: 3rem 2rem 6rem; }
+
+/* Navegação */
+.nav-topo{
+  display:flex; justify-content:space-between; align-items:center;
+  max-width: 760px; margin: 0 auto; padding: 1.5rem 2rem 0;
+}
+.nav-logo{
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 600;
+  font-size: 1.4rem;
+  color: var(--tinta);
+}
+.nav-logo:hover{ text-decoration:none; color: var(--bordo); }
+.nav-links{ display:flex; gap: 1.6rem; }
+.nav-links a{
+  font-family: 'EB Garamond', serif;
+  font-style: italic;
+  font-size: 1rem;
+  color: var(--verde);
+}
+
+/* Masthead */
+.masthead{ text-align:center; padding-bottom: 2rem; }
+.eyebrow{
+  font-family: 'EB Garamond', serif;
+  letter-spacing: 0.35em;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  color: var(--bordo);
+  margin-bottom: 0.8rem;
+}
+.titulo-principal{
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 600;
+  font-size: 4.2rem;
+  margin: 0;
+  letter-spacing: 0.01em;
+}
+.subtitulo{
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 1.15rem;
+  color: var(--verde);
+  margin-top: 0.6rem;
+}
+
+/* Ornamento tipo azulejo */
+.ornamento{
+  display:flex; align-items:center; justify-content:center; gap: 10px;
+  margin: 1.8rem 0;
+}
+.ornamento .linha{ height:1px; width: 120px; background: var(--dourado); opacity:0.6; }
+.ornamento .losango{
+  width: 8px; height:8px; background: var(--bordo); opacity:0.7;
+  transform: rotate(45deg);
+}
+
+/* Editorial / texto introdutório */
+.editorial{ margin: 3rem 0; }
+.editorial p{ margin: 0 0 1.1rem; }
+.capitular::first-letter{
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 3.6rem;
+  font-weight: 600;
+  float: left;
+  line-height: 0.8;
+  padding: 0.05em 0.1em 0 0;
+  color: var(--bordo);
+}
+
+/* Títulos de seção */
+.secao-titulo{
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-size: 1.6rem;
+  color: var(--verde);
+  border-bottom: 1px solid var(--dourado);
+  padding-bottom: 0.6rem;
+  margin: 3.5rem 0 1.5rem;
+}
+
+/* Lista de edições/textos */
+.edicao{
+  display:flex; justify-content:space-between; align-items:baseline;
+  padding: 1.1rem 0;
+  border-bottom: 1px solid rgba(43,33,26,0.15);
+  gap: 1rem;
+}
+.edicao:last-child{ border-bottom:none; }
+.edicao-link{ flex:1; display:block; color: inherit; }
+.edicao-link:hover{ text-decoration:none; }
+.edicao-link:hover .edicao-titulo{ color: var(--bordo); }
+.edicao-info{ flex:1; }
+.edicao-tipo{
+  font-size: 0.68rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--bordo);
+  display:block;
+  margin-bottom: 0.3rem;
+}
+.edicao-titulo{
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: var(--tinta);
+  transition: color 0.2s;
+}
+.edicao-data{
+  font-family: 'EB Garamond', serif;
+  font-style: italic;
+  color: var(--verde);
+  white-space: nowrap;
+  font-size: 0.95rem;
+}
+
+/* Filtros do acervo */
+.filtros{
+  display:flex; flex-wrap: wrap; gap: 0.6rem;
+  margin: 2rem 0 1rem;
+}
+.filtro-btn{
+  font-family: 'EB Garamond', serif;
+  font-style: italic;
+  font-size: 0.95rem;
+  background: transparent;
+  border: 1px solid var(--dourado);
+  color: var(--tinta);
+  padding: 0.4rem 1rem;
+  border-radius: 2px;
+  cursor: pointer;
+}
+.filtro-btn:hover{ background: rgba(169,129,46,0.12); }
+.filtro-btn.ativo{
+  background: var(--bordo);
+  border-color: var(--bordo);
+  color: var(--papel);
+}
+
+/* Página de texto individual */
+.texto-cabecalho{ text-align:center; margin-bottom: 2.5rem; }
+.texto-tipo{
+  font-size: 0.7rem;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--bordo);
+}
+.texto-titulo{
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 600;
+  font-size: 3rem;
+  margin: 0.5rem 0 0.3rem;
+}
+.texto-data{
+  font-family: 'EB Garamond', serif;
+  font-style: italic;
+  color: var(--verde);
+}
+.texto-corpo p{ margin: 0 0 1.2rem; }
+.texto-navegacao{
+  display:flex; justify-content:space-between;
+  margin-top: 3rem; padding-top: 1.5rem;
+  border-top: 1px solid rgba(43,33,26,0.15);
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+}
+
+.rodape{
+  text-align:center; margin-top: 4rem;
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  color: var(--dourado);
+  font-size: 0.95rem;
+}
+
+@media (max-width: 600px){
+  .titulo-principal{ font-size: 2.8rem; }
+  .texto-titulo{ font-size: 2.2rem; }
+  .nav-topo{ flex-direction: column; gap: 0.8rem; align-items:flex-start; }
+}

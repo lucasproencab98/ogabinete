@@ -1,0 +1,164 @@
+[
+  {
+    "id": "para-quem-ficou",
+    "tipo": "Carta",
+    "titulo": "Para quem ficou",
+    "data": "2026-07-15",
+    "resumo": "Uma carta escrita sem destinatário certo, sobre o que fica depois da partida.",
+    "corpo": [
+      "Escrevo isto sem saber ao certo se um dia você vai ler. Talvez nem precise. Há coisas que só existem de verdade quando são escritas, mesmo que ninguém as leia depois.",
+      "Você ficou em quase tudo que era comum entre nós: nas xícaras, nos livros emprestados, no caminho de casa. Não escrevo para pedir nada de volta, só para deixar registrado que existiu.",
+      "Talvez isso seja tudo que uma carta pode fazer: não mudar nada, e ainda assim valer a pena ser escrita."
+    ]
+  },
+  {
+    "id": "a-rua-sem-nome",
+    "tipo": "Conto",
+    "titulo": "A rua sem nome",
+    "data": "2026-06-20",
+    "resumo": "Um homem atravessa todos os dias uma rua que não existe em nenhum mapa da cidade.",
+    "corpo": [
+      "Havia uma rua entre a padaria e a igreja que nenhum mapa da cidade registrava. Ele passava por ali todos os dias, sempre no mesmo horário, como quem cumpre um pequeno ritual sem saber seu propósito.",
+      "Um dia perguntou a um vizinho antigo o nome daquela rua. O homem olhou para ele com estranheza e disse que ali nunca houve rua nenhuma, apenas o muro dos fundos do mercado.",
+      "Desde então, ele evita passar por lá. Não por medo do que não existe, mas por medo de descobrir que talvez nunca tenha existido nada — nem a rua, nem ele mesmo naquele horário exato."
+    ]
+  },
+  {
+    "id": "tres-variacoes-sobre-o-silencio",
+    "tipo": "Poesia",
+    "titulo": "Três variações sobre o silêncio",
+    "data": "2026-05-10",
+    "resumo": "Três pequenos poemas sobre as diferentes formas que o silêncio assume.",
+    "corpo": [
+      "I.",
+      "O silêncio da manhã não pesa,\né apenas o mundo ainda dormindo\nantes de lembrar seu próprio nome.",
+      "II.",
+      "Há um silêncio que se instala entre duas pessoas\nquando as palavras já disseram demais\ne o que resta é só a companhia.",
+      "III.",
+      "E existe o silêncio depois da partida —\nesse não descansa,\nesse ocupa a casa inteira."
+    ]
+  },
+  {
+    "id": "inventario-de-coisas-perdidas",
+    "tipo": "Conto",
+    "titulo": "Inventário de coisas perdidas",
+    "data": "2026-04-02",
+    "resumo": "Uma mulher decide catalogar tudo o que perdeu ao longo da vida, e descobre que a lista não tem fim.",
+    "corpo": [
+      "Começou pelas coisas pequenas: um brinco, um guarda-chuva, um número de telefone que já não discava há anos. Depois vieram as coisas maiores, aquelas que não cabem numa gaveta.",
+      "A lista crescia mais rápido do que ela conseguia escrever. Percebeu, então, que talvez o inventário não fosse sobre o que se perde, mas sobre o que insiste em ficar, mesmo depois de ido."
+    ]
+  },
+  {
+    "id": "carta-nunca-enviada",
+    "tipo": "Carta",
+    "titulo": "Carta nunca enviada",
+    "data": "2026-02-18",
+    "resumo": "Uma carta escrita e guardada, nunca enviada, sobre o valor de dizer sem precisar entregar.",
+    "corpo": [
+      "Escrevi esta carta três vezes e nas três vezes decidi não enviá-la. Não porque as palavras estivessem erradas, mas porque talvez algumas coisas precisem apenas ser ditas, não ouvidas.",
+      "Guardo-a numa gaveta, como quem guarda um segredo que não pesa. Um dia, talvez, a envie. Ou talvez baste saber que ela existe."
+    ]
+  },
+  {
+    "id": "quem-volta",
+    "tipo": "Conto",
+    "titulo": "Quem volta?",
+    "data": "2026-07-30",
+    "resumo": "Um vilarejo francês aguarda notícias dos homens que partiram para a Segunda Guerra, e dois sobreviventes voltam sem saber mais quem são.",
+    "corpo": [
+      "Início do outono de 1945. A guerra já havia acabado, mas os horrores estavam longe de terminar.",
+      "Em toda a Europa, a devastação tomava conta: cidades destruídas, ruínas do que um dia foi uma sociedade pautada pela ordem e pelos bons costumes. Sobraram pequenos vilarejos, tal qual pérolas perdidas em um imenso oceano. E é em uma dessas pérolas que contaremos a história de hoje.",
+      "Em uma tarde fria, o velho relógio de madeira do pequeno armazém localizado no centro do vilarejo marcava 14h47. Todos os moradores do local se reuniram no pequenino centro, que nada mais tinha além do armazém e de um pequeno poço que abastecia toda a região. Lá, viram atentamente o veículo militar que surgia quase na divisa do firmamento com a terra. Puderam observar com apreensão e ansiedade o veículo que se deslocava tal qual uma flecha no ar, e o rastro de poeira que se perdia no céu cinzento de outono.",
+      "Heloíse, uma jovem menina de 9 anos, aguardava ansiosamente junto de sua mãe, Clarice, por notícias de seu pai. Desde 1942, em uma manhã de chuva, ele partira junto a outros homens do vilarejo, sob a pressa e o desespero para defender o que nem ele mesmo sabia.",
+      "Passava das 15h e finalmente o veículo já se fazia ouvir. Ansiosa, Heloíse se coloca em cima de um banquinho de madeira que seu pai havia criado pouco antes de sair, há três anos. Ela observa, com um olhar que analisa cada detalhe, o veículo e seus ocupantes. Atenta-se ao motorista, um jovem de não mais que 18 anos, com um uniforme em tom marrom-esverdeado. Ao seu lado, um homem velho, com um charuto na boca e uma grande arma no colo — que, ao seu olhar, parecia com a perna das cadeiras que seu pai confeccionava —, apontando para cima. Não era capaz de discernir quem vinha atrás, mas alimentava a esperança de ser seu pai.",
+      "O veículo finalmente estaciona. Um misto de silêncio e curiosidade paira no ar cheio de poeira que o carro acabara de levantar. Saem dois homens. O mais velho, oficial do exército, joga o charuto no chão, pisa nele e então retira os óculos redondos de grau. Respira fundo e diz:",
+      "— Senhoras e senhores, venho anunciar-lhes que a Segunda Grande Guerra teve o seu fim.",
+      "Antes que pudesse concluir, todos gritaram felizes e aliviados, pois poderiam simplesmente viver sem medo novamente. Mas Heloíse ainda seguia apreensiva, pois, apesar de não ver seu pai, alimentava a esperança, já que a grande guerra havia acabado.",
+      "Depois da euforia inicial, o velho oficial seguiu:",
+      "— A partir de hoje, o que sobra desta nação poderá reconstruir um futuro de paz, igualdade e esperança para os que vivem aqui. Deste humilde local, saíram doze homens que, antes de serem soldados, eram pais, irmãos, filhos, trabalhadores e maridos. Mas, diante da grande guerra, precisaram deixar tudo de lado para serem guerreiros.",
+      "Neste momento, Heloíse, já tomada pela ansiedade de mais de três anos de ausência, gritou:",
+      "— Moço, meu papai vai voltar pra casa?",
+      "O oficial então fez uma pausa, respirou profundamente e disse, olhando para todos:",
+      "— Dos doze homens que daqui saíram, apenas dois voltam para casa.",
+      "Neste momento, os dois homens que estavam no banco de trás saem do veículo, e uma mistura de choro desesperado e gritos de alegria toma o lugar. Alguns acreditam ser o marido voltando; outros, o irmão. A cada parte revelada do corpo, uma família cria esperança e outra a perde. De repente, estavam os dois, lado a lado, em frente a todos.",
+      "Ali estavam Charles e René, o marceneiro e o açougueiro do pequeno vilarejo. Os únicos que sobreviveram. Heloíse, ao perceber que seu pai Charles havia voltado, correu em direção ao homem para abraçá-lo.",
+      "Sem reação, Charles e René ficaram ali, parados, observando a tudo e a todos. Apenas um pensamento passava em suas mentes: o de que a vida continuou, mesmo sem eles. Viam e ouviam a todos, mas a sensação de pertencimento havia escorrido entre os dedos com a chuva que banhava o momento em que foram levados para o conflito.",
+      "Charles ainda se lembrava perfeitamente do dia em que saiu dali: da sensação de medo, saudade, tristeza e solidão que sentira enquanto fechava a porta de sua casa e via sua filha de 6 anos, à época, com um pijama de bolinhas coloridas, e sua esposa com o avental que usava para fazer o almoço, mas que, naquele momento, usava para enxugar as lágrimas que não queria que Heloíse visse. Naquele momento, já dentro do caminhão que levava aqueles homens, viu sua companheira fazer um esforço sobre-humano, chamando a filha para entrar e dizendo que logo o papai voltaria.",
+      "A partir dali a cena o acompanhou durante os três anos que passou sob a influência da guerra. Viajou por países da Europa que sonhava em conhecer ao lado da família, mas que estava conhecendo só em ruínas, sangue e morte. A cada batalha, via sua esperança de voltar para casa diminuir; a cada vida retirada por um ideal longínquo, seu coração diminuía. Só sobrava espaço para uma única cena: a de sua despedida de casa. Queria, talvez, que a vida retirada fosse a sua.",
+      "E é essa mesma cena que se repetiu na tela mental de Charles quando retorna para onde um dia foi sua casa e sua vida. Sente uma barreira invisível quando vê o local, pois já não se vê mais pertencendo ali. Olha para baixo, vê sua filha diferente; olha para a frente, vê sua esposa chorando copiosamente; enfim, olha para o céu e pergunta ao Pai, em silêncio: \"O que sobrou de mim?\""
+    ]
+  },
+  {
+    "id": "pelotao-sentido",
+    "tipo": "Conto",
+    "titulo": "Pelotão, sentido!",
+    "data": "2026-07-30",
+    "resumo": "Um jovem que buscou identidade e valor na disciplina militar é forçado a se reencontrar consigo mesmo.",
+    "corpo": [
+      "Tudo começa com a frase: \"Pelotão, sentido!\"",
+      "À época, um jovem rapaz com seus 19 ou 20 anos — olhar cheio de esperança, mas também perdido — achava que o fluir da vida era apenas o acaso, e quis que aquilo que parecia um emaranhado de acontecimentos seguisse a sua vontade.",
+      "Viu na força e na disciplina um exemplo que seguiria a qualquer custo — ao custo de si próprio. Fantasiado de força e coragem, viu seu interior se deteriorar a cada renúncia que fazia a si mesmo para tentar ser visto.",
+      "Sem saber, conduziu-se a uma busca incessante por uma satisfação que nunca chegaria. O consciente trabalhando para responder à única pergunta inconsciente: \"Sou suficiente?\"",
+      "A cada lustrar do coturno e passar da farda, uma única mensagem: o externo me define, seja qual for o interno.",
+      "Quando se deu conta, já não distinguia força de rigidez, nem disciplina de castigo. No ponto máximo da glória, onde todos o iriam admirar, veio o choque. No meio do pelotão — de boina, braçal e fuzil na mão —, o silêncio da pergunta gritou:",
+      "\"Se a morte estiver em minhas mãos, nunca mais encontrarei a mim mesmo.\"",
+      "O processo foi árduo; precisou renunciar ao que achava que sabia de si. O reencontro com aquele jovem rapaz de olhar cheio de esperança precisava acontecer. Mas, quando finalmente o viu, encontrou apenas um olhar marcado pelo único abandono que realmente importava: o de si mesmo.",
+      "Dia após dia, sentia-se perdido entre quem era e quem se tornara. Percebeu, então, que a vida seguia uma retidão tal qual o rio segue o seu fluxo, e que nenhum acontecimento em sua existência era obra do acaso.",
+      "Sentiu a guiança que nunca sentira antes, percebeu o que o levara para onde foi e reencontrou a sua parte que ficara esquecida.",
+      "Dizem que a vida é fácil de ser vivida, mas este homem descobriu que, quando se deixa de acreditar que não pode ser quem é, o reencontro consigo mesmo significa, finalmente, VIDA."
+    ]
+  },
+  {
+    "id": "carta-psicografada",
+    "tipo": "Carta",
+    "titulo": "Carta psicografada",
+    "data": "2026-07-26",
+    "resumo": "Uma mensagem psicografada de um avô, pedindo que a família use uma herança para se unir, não para brigar.",
+    "corpo": [
+      "Olá a todos, primeiramente quero agradecer a oportunidade de poder me comunicar novamente.",
+      "Estimo que estejam todos bem.",
+      "O motivo de minha comunicação se dá pelo fato de que os senhores precisam se resolver, venho a muitos anos acompanhando esta briga que não os leva a lugar nenhum. Se vocês soubessem o tamanho dos desígnios da criação jamais gastariam uma gota de energia divina alimentando brigas e sentimentos de rivalidade.",
+      "Caros irmãos, esta herança que vos deixei nunca foi para causar briga entre vocês, sempre foi para unir-vos, deixá-los bem e sobretudo para que vocês pudessem conhecer a vida sem a necessidade das preocupações que atormentam grande parte das pessoas.",
+      "Meus filhos, falo filhos pois meu sentimento por vocês é o de um pai que olha e cuida, mas que também chama a atenção quando é preciso. Hoje venho aqui dizer-lhes que esse dinheiro não foi deixado por mim, foi deixado por Deus. Peço que usem para os unir e não para os separar. Permitam que o amor entre vocês fale mais forte do que qualquer desavença material causada pelo ínfimo tempo que terão aqui.",
+      "Esta é a mensagem que vos deixo com o intuito de que se unam para construir aquilo que precisa ser construído. E não para se entregar as bonanças da vida.",
+      "De seu avô,"
+    ]
+  },
+  {
+    "id": "caro-universo",
+    "tipo": "Carta",
+    "titulo": "Caro universo...",
+    "data": "2026-07-30",
+    "resumo": "Um pedido dirigido ao universo, sobre trocar a busca por si mesmo pela aceitação de si mesmo.",
+    "corpo": [
+      "Vi em um vídeo que enviar cartas ao universo é uma boa forma de pedir aquilo que preciso, então vamos lá:",
+      "Sempre fui um admirador da vasta imensidão do desconhecido que envolve o local onde tudo que eu conheço existe. Sempre gostei de pesquisar sobre a forma de funcionamento (da maneira que nós, humanos, acreditamos compreender). Sei que é ínfimo o conhecimento que temos sobre e que muito do que sabemos ainda está mais no campo das suposições do que no campo da verdade, mas isso não torna meu fascínio menos verdadeiro.",
+      "Há algum tempo venho pensando que persigo algo como na próxima esquina, fosse finalmente encontrar meu verdadeiro eu. Como se eu estivesse escondido em algum lugar, esperando que eu mesmo me encontrasse para, enfim, ser feliz. Às vezes penso que vou me encontrar em um novo trabalho, outras vezes em uma religião ou em algum estado de espírito. Enfim, sempre acredito que vou me encontrar, mas nunca realmente me achei.",
+      "Diante de tudo isso, gostaria de pedir, diante de toda essa imensidão desconhecida aos meus olhos e sentidos, aquilo que chamo de universo, que me ensine a sentir que eu não preciso me encontrar, pois eu já vivo comigo. Talvez, mais do que me encontrar, eu precise me aceitar.",
+      "Aceitar esse coração que todos dizem que eu tenho, mas que, desde o momento em que o escondi, deixei de aceitar. Hoje, talvez, eu nem me lembre mais de como ele era. Aceitar também o fluxo da vida e os processos que regem a criação; aceitar o tempo de florescer e o tempo de colher de cada experiência, de cada comportamento e de cada ação.",
+      "Gostaria de pedir ajuda para aceitar que estou no lugar certo, no tempo certo, e que não preciso deixar nada para trás. Preciso apenas aceitar.",
+      "Não quero dinheiro nem posses, embora saiba que uma boa casa e dois carros seriam ótimos para experienciar a vida com mais tranquilidade junto à minha família. Mas isso deixo a cargo de mim mesmo, pois enquanto estiver em paz comigo, saberei prover essas questões meramente materiais.",
+      "O que peço aqui é algo muito mais amplo. É algo que ainda não soube conquistar. Peço a paz da mente e a paz do coração. E, acima de tudo, com toda a confiança em Deus, que nunca teve sequer um tropeço em toda essa divina e infinita criação, peço que o Amor, que flui de Deus em abundância, possa vir ao meu encontro, trazendo paz para minha mente e para meu coração.",
+      "Peço que eu possa, enfim, parar de correr atrás de mim mesmo e simplesmente me aceitar.",
+      "De uma parte de você,",
+      "Lucas...."
+    ]
+  },
+  {
+    "id": "carta-ao-pai",
+    "tipo": "Carta",
+    "titulo": "Carta ao Pai",
+    "data": "2026-07-30",
+    "resumo": "Uma oração de agradecimento e um pedido de amor próprio, dirigida a Deus.",
+    "corpo": [
+      "Senhor, Divindade inalcançável aos nossos sentidos humanos, nós não compreendemos sequer a Sua criação; quanto mais o Senhor e o Seu Amor.",
+      "Através de um dos Seus Filhos, o mais amoroso e correto que caminhou sobre esta terra, pudemos conhecer uma fagulha do Seu amor pela criação. A partir disso, eu também posso hoje me esforçar para aprender e viver conforme os Seus valores, as Suas virtudes e a Sua verdade.",
+      "Se hoje, Pai, não sou o homem que desejo ser, graças ao Seu infinito amor por mim, posso continuar caminhando em direção a ele.",
+      "Comecei escrevendo esta carta para pedir algo ao Senhor, Pai, mas, diante de tudo, não consigo pedir nada. Tudo aquilo que o Senhor já me proporcionou é tanto, é muito mais do que acredito merecer.",
+      "Nada tenho a pedir, meu Deus; tenho apenas a agradecer. Agradecer por me resgatar nos momentos de queda, de escuridão e de ignorância. Se ainda não sou o homem que desejo ser, isso é responsabilidade minha, por não ter caminhado tanto segundo a sua Lei.",
+      "Peço ao Senhor o Amor, Pai, mas não o Seu amor por mim; peço o amor de mim para comigo mesmo e de mim para o Senhor. Que esse amor que existe em mim possa transbordar, Pai.",
+      "Que assim seja."
+    ]
+  }
+]
