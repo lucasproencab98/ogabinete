@@ -1,65 +1,5 @@
-[
-  {
-    "id": "para-quem-ficou",
-    "tipo": "Carta",
-    "titulo": "Para quem ficou",
-    "data": "2026-07-15",
-    "resumo": "Uma carta escrita sem destinatário certo, sobre o que fica depois da partida.",
-    "corpo": [
-      "Escrevo isto sem saber ao certo se um dia você vai ler. Talvez nem precise. Há coisas que só existem de verdade quando são escritas, mesmo que ninguém as leia depois.",
-      "Você ficou em quase tudo que era comum entre nós: nas xícaras, nos livros emprestados, no caminho de casa. Não escrevo para pedir nada de volta, só para deixar registrado que existiu.",
-      "Talvez isso seja tudo que uma carta pode fazer: não mudar nada, e ainda assim valer a pena ser escrita."
-    ]
-  },
-  {
-    "id": "a-rua-sem-nome",
-    "tipo": "Conto",
-    "titulo": "A rua sem nome",
-    "data": "2026-06-20",
-    "resumo": "Um homem atravessa todos os dias uma rua que não existe em nenhum mapa da cidade.",
-    "corpo": [
-      "Havia uma rua entre a padaria e a igreja que nenhum mapa da cidade registrava. Ele passava por ali todos os dias, sempre no mesmo horário, como quem cumpre um pequeno ritual sem saber seu propósito.",
-      "Um dia perguntou a um vizinho antigo o nome daquela rua. O homem olhou para ele com estranheza e disse que ali nunca houve rua nenhuma, apenas o muro dos fundos do mercado.",
-      "Desde então, ele evita passar por lá. Não por medo do que não existe, mas por medo de descobrir que talvez nunca tenha existido nada — nem a rua, nem ele mesmo naquele horário exato."
-    ]
-  },
-  {
-    "id": "tres-variacoes-sobre-o-silencio",
-    "tipo": "Poesia",
-    "titulo": "Três variações sobre o silêncio",
-    "data": "2026-05-10",
-    "resumo": "Três pequenos poemas sobre as diferentes formas que o silêncio assume.",
-    "corpo": [
-      "I.",
-      "O silêncio da manhã não pesa,\né apenas o mundo ainda dormindo\nantes de lembrar seu próprio nome.",
-      "II.",
-      "Há um silêncio que se instala entre duas pessoas\nquando as palavras já disseram demais\ne o que resta é só a companhia.",
-      "III.",
-      "E existe o silêncio depois da partida —\nesse não descansa,\nesse ocupa a casa inteira."
-    ]
-  },
-  {
-    "id": "inventario-de-coisas-perdidas",
-    "tipo": "Conto",
-    "titulo": "Inventário de coisas perdidas",
-    "data": "2026-04-02",
-    "resumo": "Uma mulher decide catalogar tudo o que perdeu ao longo da vida, e descobre que a lista não tem fim.",
-    "corpo": [
-      "Começou pelas coisas pequenas: um brinco, um guarda-chuva, um número de telefone que já não discava há anos. Depois vieram as coisas maiores, aquelas que não cabem numa gaveta.",
-      "A lista crescia mais rápido do que ela conseguia escrever. Percebeu, então, que talvez o inventário não fosse sobre o que se perde, mas sobre o que insiste em ficar, mesmo depois de ido."
-    ]
-  },
-  {
-    "id": "carta-nunca-enviada",
-    "tipo": "Carta",
-    "titulo": "Carta nunca enviada",
-    "data": "2026-02-18",
-    "resumo": "Uma carta escrita e guardada, nunca enviada, sobre o valor de dizer sem precisar entregar.",
-    "corpo": [
-      "Escrevi esta carta três vezes e nas três vezes decidi não enviá-la. Não porque as palavras estivessem erradas, mas porque talvez algumas coisas precisem apenas ser ditas, não ouvidas.",
-      "Guardo-a numa gaveta, como quem guarda um segredo que não pesa. Um dia, talvez, a envie. Ou talvez baste saber que ela existe."
-    ]
-  },
+
+  
   {
     "id": "quem-volta",
     "tipo": "Conto",
@@ -110,7 +50,7 @@
     ]
   },
   {
-    "id": "carta-psicografada",
+    "id": "carta-intuída",
     "tipo": "Carta",
     "titulo": "Carta psicografada",
     "data": "2026-07-26",
@@ -122,7 +62,7 @@
       "Caros irmãos, esta herança que vos deixei nunca foi para causar briga entre vocês, sempre foi para unir-vos, deixá-los bem e sobretudo para que vocês pudessem conhecer a vida sem a necessidade das preocupações que atormentam grande parte das pessoas.",
       "Meus filhos, falo filhos pois meu sentimento por vocês é o de um pai que olha e cuida, mas que também chama a atenção quando é preciso. Hoje venho aqui dizer-lhes que esse dinheiro não foi deixado por mim, foi deixado por Deus. Peço que usem para os unir e não para os separar. Permitam que o amor entre vocês fale mais forte do que qualquer desavença material causada pelo ínfimo tempo que terão aqui.",
       "Esta é a mensagem que vos deixo com o intuito de que se unam para construir aquilo que precisa ser construído. E não para se entregar as bonanças da vida.",
-      "De seu avô,"
+      "De seu avô,..."
     ]
   },
   {
