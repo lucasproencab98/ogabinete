@@ -3,7 +3,7 @@
     "id": "quem-volta",
     "tipo": "Conto",
     "titulo": "Quem volta?",
-    "data": "2026-07-30",
+    "data": "2026-07-22",
     "resumo": "Um vilarejo francês aguarda notícias dos homens que partiram para a Segunda Guerra, e dois sobreviventes voltam sem saber mais quem são.",
     "corpo": [
       "Início do outono de 1945. A guerra já havia acabado, mas os horrores estavam longe de terminar.",
@@ -32,7 +32,7 @@
     "id": "pelotao-sentido",
     "tipo": "Conto",
     "titulo": "Pelotão, sentido!",
-    "data": "2026-07-30",
+    "data": "2026-07-20",
     "resumo": "Um jovem que buscou identidade e valor na disciplina militar é forçado a se reencontrar consigo mesmo.",
     "corpo": [
       "Tudo começa com a frase: \"Pelotão, sentido!\"",
@@ -46,22 +46,6 @@
       "Dia após dia, sentia-se perdido entre quem era e quem se tornara. Percebeu, então, que a vida seguia uma retidão tal qual o rio segue o seu fluxo, e que nenhum acontecimento em sua existência era obra do acaso.",
       "Sentiu a guiança que nunca sentira antes, percebeu o que o levara para onde foi e reencontrou a sua parte que ficara esquecida.",
       "Dizem que a vida é fácil de ser vivida, mas este homem descobriu que, quando se deixa de acreditar que não pode ser quem é, o reencontro consigo mesmo significa, finalmente, VIDA."
-    ]
-  },
-  {
-    "id": "carta-psicografada",
-    "tipo": "Carta",
-    "titulo": "Carta vinda da intuição",
-    "data": "2026-07-26",
-    "resumo": "Uma mensagem psicografada de um avô, pedindo que a família use uma herança para se unir, não para brigar.",
-    "corpo": [
-      "Olá a todos, primeiramente quero agradecer a oportunidade de poder me comunicar novamente.",
-      "Estimo que estejam todos bem.",
-      "O motivo de minha comunicação se dá pelo fato de que os senhores precisam se resolver, venho a muitos anos acompanhando esta briga que não os leva a lugar nenhum. Se vocês soubessem o tamanho dos desígnios da criação jamais gastariam uma gota de energia divina alimentando brigas e sentimentos de rivalidade.",
-      "Caros irmãos, esta herança que vos deixei nunca foi para causar briga entre vocês, sempre foi para unir-vos, deixá-los bem e sobretudo para que vocês pudessem conhecer a vida sem a necessidade das preocupações que atormentam grande parte das pessoas.",
-      "Meus filhos, falo filhos pois meu sentimento por vocês é o de um pai que olha e cuida, mas que também chama a atenção quando é preciso. Hoje venho aqui dizer-lhes que esse dinheiro não foi deixado por mim, foi deixado por Deus. Peço que usem para os unir e não para os separar. Permitam que o amor entre vocês fale mais forte do que qualquer desavença material causada pelo ínfimo tempo que terão aqui.",
-      "Esta é a mensagem que vos deixo com o intuito de que se unam para construir aquilo que precisa ser construído. E não para se entregar as bonanças da vida.",
-      "De seu avô,"
     ]
   },
   {
